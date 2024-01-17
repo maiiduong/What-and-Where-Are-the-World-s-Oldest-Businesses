@@ -1,5 +1,5 @@
 # What-and-Where-Are-the-World-s-Oldest-Businesses (Guided by DataCamp)
-*In this project, I employ SQL to analyze three 200 observation datasets to identify the world's oldest businesses, their founded years, their locations, and their categories.*
+*In this project, I employ SQL to analyze three 200 observation datasets to identify the world's oldest businesses, their founded years, their locations, and their operations.*
 ## Questions to address:
 1. Which and how many businesses were founded before 1000?
 2. Which industry were they in?
